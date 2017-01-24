@@ -2,10 +2,12 @@
   Link: </style.css>; rel=preload; as=stylesheet
   Link: </main.js>; rel=preload; as=script
   Link: </image.jpg>; rel=preload; as=image
+  Cache-Control: private,max-age=0
 /subpage/
   Link: </style.css>; rel=preload; as=stylesheet
   Link: </main.js>; rel=preload; as=script
   Link: </image.jpg>; rel=preload; as=image
+  Cache-Control: private,max-age=0
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
