@@ -2,6 +2,10 @@
   Link: </style.css>; rel=preload; as=stylesheet
   Link: </main.js>; rel=preload; as=script
   Link: </image.jpg>; rel=preload; as=image
+/subpage/
+  Link: </style.css>; rel=preload; as=stylesheet
+  Link: </main.js>; rel=preload; as=script
+  Link: </image.jpg>; rel=preload; as=image
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 1; mode=block
